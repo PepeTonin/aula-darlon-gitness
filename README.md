@@ -1,1 +1,2 @@
 # aula-08-11-23
+token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2OTk0ODk1MjgsImlzcyI6IkdpdG5lc3MiLCJwaWQiOjMsInRrbiI6eyJ0eXAiOiJwYXQiLCJpZCI6Mn19.XctjVghUHqIxLh-rAV1KoRanWslWGiBrIF_WoQrpcr8
